@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="default_question_txt">Select or type the correct country name for the next 5 questions:</string>
+    <string name="cont_question1">Which of the following countries are in Africa?</string>
+    <string name="choose_all">Choose all that apply</string>
+    <string name="submit">Submit</string>
+    <string name="sa">South America</string>
+    <string name="na">North America</string>
+    <string name="af">Africa</string>
+    <string name="eu">Europe</string>
+    <string name="as">Asia</string>
+    <string name="eg">Egypt</string>
+    <string name="ma">Morocco</string>
+    <string name="au">Australia</string>
+    <string name="ca">Canada</string>
+    <string name="qa">Qatar</string>
+    <string name="jo">Jordan</string>
+    <string name="ar">Argentina</string>
+    <string name="dz">Algeria</string>
+    <string name="nz">New  Zealand</string>
+    <string name="se">Sweden</string>
+    <string name="result_message">Your Score is: %1$d out of 6</string>
+    <string name="play_again">Play again?</string>
+    <string name="what_country">What country is this?</string>
+</resources>
